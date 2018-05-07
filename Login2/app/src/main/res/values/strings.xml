@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string-array name="tipos">
+        <item>-</item>
+        <item>LINEARLAYOUT</item>
+        <item>TABLELAYOUT</item>
+        <item>FRAMELAYOUT</item>
+        <item>RELATIVELAYOUT</item>
+    </string-array>
+</resources>
